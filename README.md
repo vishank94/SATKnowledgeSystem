@@ -2,6 +2,9 @@
 
 A RAG-based system that matches student questions with relevant SAT curriculum knowledge points.
 
+## Demo:
+[![Watch the video](https://github.com/vishank94/SATKnowledgeSystem/blob/main/SATKnowledgeSystemThumbnail.png)](https://drive.google.com/file/d/1hEpPvmcOPjM0NV3I0cuu-uiClpBP2YT8/view?usp=sharing)
+
 ## Quick Start
 
 ### 1. Install Dependencies
